@@ -1,3 +1,14 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "list": "Coba 1",
+      "isDone": false,
+      "id": 1
+    },
+    {
+      "list": "Coba 2",
+      "isDone": false,
+      "id": 2
+    }
+  ]
 }
